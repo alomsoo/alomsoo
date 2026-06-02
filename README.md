@@ -1,4 +1,4 @@
-# Hi, I'm Alonso Muñiz 👋
+# Hi, I'm Alonso Muñiz 
 
 Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Peru.
 
