@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alonso Muñiz 👋
 
-<!--
-**alomsoo/alomsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Peru.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** React, Flutter/Dart, HTML5, CSS3, JavaScript
+- **Backend:** Spring Boot (Java), .NET (C#), Node.js, Python
+- **Databases:** MySQL, SQL Server
+- **Tools:** Git, GitHub, Power BI, JWT, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 7th cycle — Software Engineering @ UPC
+- Building full-stack academic and personal projects
+
+## Contact
+- Email: alonoso.percy@gmail.com
+- LinkedIn: [linkedin.com/in/tu-usuario](#)
