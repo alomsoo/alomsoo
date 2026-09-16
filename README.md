@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
+  <a href="www.linkedin.com/in/alonso-muñiz-huayanca-b7696634a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:alonoso.percy@gmail.com">
