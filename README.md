@@ -100,19 +100,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alomsoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomsoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alomsoo&theme=tokyonight&hide_border=true&locale=es" alt="Racha de GitHub"/>
-</p>
-
----
-
 ## 📌 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
