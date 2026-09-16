@@ -4,16 +4,16 @@
   ║  Usuario de GitHub: alomsoo                                   ║
   ║  Este archivo va en un repo con el MISMO nombre que tu        ║
   ║  usuario: github.com/alomsoo/alomsoo                          ║
-  ║  ⚠️  Completa la descripción y tecnologías de "ParkLink".    ║
+  ║  Completa la descripción y tecnologías de "ParkLink".        ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<h1 align="center">¡Hola! 👋 Soy Alonso Muñiz</h1>
+<h1 align="center">Hola, soy Alonso Muñiz</h1>
 
 <h3 align="center">Estudiante de Ingeniería de Software @ UPC · Desarrollador Full-Stack (.NET · Java · Flutter)<br/>Apasionado por la Ciberseguridad y los Datos</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E74B5&center=true&vCenter=true&width=650&lines=Desarrollador+Full-Stack+%7C+.NET+%C2%B7+Java+%C2%B7+Flutter;Certificado+en+Google+Cybersecurity+%F0%9F%94%90;Power+BI+%26+An%C3%A1lisis+de+Datos+%F0%9F%93%8A;IoT+%26+Edge+con+ESP32+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E74B5&center=true&vCenter=true&width=650&lines=Desarrollador+Full-Stack+%7C+.NET+%C2%B7+Java+%C2%B7+Flutter;Certificado+en+Google+Cybersecurity;Power+BI+%26+An%C3%A1lisis+de+Datos;IoT+%26+Edge+con+ESP32" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,19 +28,19 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software (8vo ciclo)** en la **UPC** (Promedio **16.37 / 20**) — me gradúo en **diciembre de 2027**
-- 💻 Construyo proyectos **full-stack** académicos y personales con **.NET, Java/Spring Boot, Flutter y Node.js**
-- 🔐 Certificado en **Google Cybersecurity** — sólidos fundamentos de redes (OSI/TCP-IP, VLANs, VLSM, ACLs) e interés genuino en **seguridad IT / OT (industrial)**
-- 📊 **Power BI** y análisis de datos, además de automatización de procesos con **Power Automate, Power Apps y n8n**
-- ⚡ **Aficionado al IoT** — ESP32, sensores y comunicación edge-backend
-- 🌱 Actualmente profundizando en **IA/ML y Ciencia de Datos**
-- 🗣️ Español (nativo) · Inglés (B2, avanzado)
+- Estudiante de **Ingeniería de Software (8vo ciclo)** en la **UPC** (Promedio **16.37 / 20**) — me gradúo en **diciembre de 2027**
+- Construyo proyectos **full-stack** académicos y personales con **.NET, Java/Spring Boot, Flutter y Node.js**
+- Certificado en **Google Cybersecurity** — sólidos fundamentos de redes (OSI/TCP-IP, VLANs, VLSM, ACLs) e interés genuino en **seguridad IT / OT (industrial)**
+- **Power BI** y análisis de datos, además de automatización de procesos con **Power Automate, Power Apps y n8n**
+- Aficionado al **IoT** — ESP32, sensores y comunicación edge-backend
+- Actualmente profundizando en **IA/ML y Ciencia de Datos**
+- Español (nativo) · Inglés (B2, avanzado)
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## Tecnologías & Herramientas
 
 **Lenguajes**
 
@@ -100,29 +100,29 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| ⚙️ **[DispenXCore](https://github.com/1ASI0572-2610-17755-G4-DispenXCore)** | Dispensador IoT full-stack: app en Flutter de 20 pantallas (Clean Architecture) + ESP32 con polling HTTP, 3 sensores, servicio edge en Flask y backend en .NET desplegado en Railway, con CI/CD en GitHub Actions. | Flutter · .NET · ESP32 · Flask |
-| 💼 **[AlguienDijoChamba (ADC)](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba)** | Plataforma laboral full-stack: módulos de Notificaciones y Perfil (Flutter + .NET/C#/MySQL), dashboards en Power BI, autenticación JWT e integración vía API REST. | Flutter · .NET · MySQL · Power BI |
-| 🅿️ **[ParkLink](https://github.com/1ASI0657-2610-17949-ParkLink)** | _Proyecto académico UPC. [Confírmame qué hace ParkLink y con qué tecnologías — por el nombre, ¿gestión/reserva de estacionamientos?]_ | _[Completar tecnologías]_ |
+| **[DispenXCore](https://github.com/1ASI0572-2610-17755-G4-DispenXCore)** | Dispensador IoT full-stack: app en Flutter de 20 pantallas (Clean Architecture) + ESP32 con polling HTTP, 3 sensores, servicio edge en Flask y backend en .NET desplegado en Railway, con CI/CD en GitHub Actions. | Flutter · .NET · ESP32 · Flask |
+| **[AlguienDijoChamba (ADC)](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba)** | Plataforma laboral full-stack: módulos de Notificaciones y Perfil (Flutter + .NET/C#/MySQL), dashboards en Power BI, autenticación JWT e integración vía API REST. | Flutter · .NET · MySQL · Power BI |
+| **[ParkLink](https://github.com/1ASI0657-2610-17949-ParkLink)** | _Proyecto académico UPC. [Confírmame qué hace ParkLink y con qué tecnologías — por el nombre, ¿gestión/reserva de estacionamientos?]_ | _[Completar tecnologías]_ |
 
-> 💡 Estos son repositorios de organizaciones de tus cursos en la UPC.
-
----
-
-## 🏅 Certificaciones
-
-- 🔐 **Google Cybersecurity** — Herramientas del Oficio: Linux y SQL · Applying AI Principles with Google Cloud *(2025)*
-- ☕ **Java 17 Full Stack** — Cibertec *(2025)*
-- 🤖 **Introduction to Modern AI** — Cisco *(2026)*
-- 📊 **Power BI Avanzado** · **SAP Business One Avanzado** — Global Tecnologías *(2026)*
-- 🧩 **Scrum Fundamentals Certified (SFC)** — SCRUMstudy *(2024)*
+> Estos son repositorios de organizaciones de tus cursos en la UPC.
 
 ---
 
-## 📫 Conecta conmigo
+## Certificaciones
+
+- **Google Cybersecurity** — Herramientas del Oficio: Linux y SQL · Applying AI Principles with Google Cloud *(2025)*
+- **Java 17 Full Stack** — Cibertec *(2025)*
+- **Introduction to Modern AI** — Cisco *(2026)*
+- **Power BI Avanzado** · **SAP Business One Avanzado** — Global Tecnologías *(2026)*
+- **Scrum Fundamentals Certified (SFC)** — SCRUMstudy *(2024)*
+
+---
+
+## Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonso-mu%C3%B1iz-huayanca-b7696634a">
@@ -133,4 +133,4 @@
   </a>
 </p>
 
-<p align="center"><i>Lima, Perú · Abierto a prácticas en desarrollo de software, ciberseguridad y datos 🚀</i></p>
+<p align="center"><i>Lima, Perú · Abierto a prácticas en desarrollo de software, ciberseguridad y datos</i></p>
